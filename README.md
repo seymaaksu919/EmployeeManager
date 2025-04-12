@@ -3,10 +3,10 @@
 Bu kodda , çalışanların bilgilerini saklamak ve yönetmek amacıyla basit bir sınıf tabanlı sistemdir. Python ile yazılmıştır ve temel olarak çalışan bilgilerini tutar, maaşlarını günceller ve çalışanların sayısını takip eder. Aynı zamanda her çalışan için maaş zammı yapabilme ve çalışan bilgilerini yazdırabilme gibi işlevlere sahiptir.
 
 ## Özellikler:
-- Çalışan Bilgileri**: Çalışan adı, görev, maaş ve işe giriş tarihi gibi temel bilgileri saklar.
-- Maaş Artışı**: Çalışanların maaşlarına belirli bir tutarda artış yapabilir.
-- Toplam Çalışan Sayısı**: Sistemdeki toplam çalışan sayısını takip eder.
-- Çalışan Bilgilerini Yazdırma**: Çalışan bilgilerini ekrana yazdırma işlevi.
+- Çalışan Bilgileri: Çalışan adı, görev, maaş ve işe giriş tarihi gibi temel bilgileri saklar.
+- Maaş Artışı: Çalışanların maaşlarına belirli bir tutarda artış yapabilir.
+- Toplam Çalışan Sayısı: Sistemdeki toplam çalışan sayısını takip eder.
+- Çalışan Bilgilerini Yazdırma: Çalışan bilgilerini ekrana yazdırma işlevi.
 
 ## Kullanım:
 Bu projeyi kullanarak çalışan bilgilerini ekleyebilir, her çalışan için maaş artışı yapabilir ve toplam çalışan sayısını görebilirsiniz. 
@@ -34,4 +34,5 @@ Calisan2.Yeni_maas(10000)
 
 ### Araçlar
 Python
+
 Visual Studio
